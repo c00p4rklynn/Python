@@ -5,9 +5,9 @@ Repo containing all coding excercises related to python code such as 30 days of 
 
 30 days of code: py1,2,3 
 -print statements, variables and operators
-[refrence1](https://www.tutorialspoint.com/python3/python_variable_types.htm)
+[reference1](https://www.tutorialspoint.com/python3/python_variable_types.htm)
 
-Data structures:
-
-
-Algorithms:
+## Day 2: Jan-25-2022
+Data structures: py1
+2d array loop
+-had an issue with compilation in the for loop
