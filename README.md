@@ -11,3 +11,10 @@ Repo containing all coding excercises related to python code such as 30 days of 
 Data structures: py1
 2d array loop
 -had an issue with compilation in the for loop
+
+30 days of code: py4Conditional,py5class,py6loops
+[class_reference1](https://www.tutorialspoint.com/python3/python_classes_objects.htm)
+
+## Day 3: Jan-26-2022
+30 days of code: py7Review
+[strings_reference1](https://www.tutorialspoint.com/python3/python_strings.htm)
