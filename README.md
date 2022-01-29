@@ -18,3 +18,9 @@ Data structures: py1
 ## Day 3: Jan-26-2022
 30 days of code: py7Review
 [strings_reference1](https://www.tutorialspoint.com/python3/python_strings.htm)
+
+## Day 4: Jan-27-2022
+30 days of code: py8arrays, p9Dictionary, py10recursion
+
+## Day 5: Jan-28-2022
+30 days of code: py11binary, py12inheritance
